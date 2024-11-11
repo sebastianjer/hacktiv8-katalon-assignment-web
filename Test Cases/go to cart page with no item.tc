@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>go to cart page with no item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>88bbbe8b-2fd1-4c20-b0c3-b72dc0e6e5d9</testCaseGuid>
+</TestCaseEntity>
